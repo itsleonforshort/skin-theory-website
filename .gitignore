@@ -3,3 +3,7 @@ dist/
 .env
 .env.local
 .DS_Store
+
+# model photos are downloaded on demand, not committed
+public/images/models/*.jpg
+public/images/models/*.webp

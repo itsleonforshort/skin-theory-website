@@ -102,3 +102,63 @@ only ever have to fill in boxes. See the `input-slot-finder` agent file.
 
 The `project-boss` agent declares done only when every item in sections 3 to 10
 is satisfied and the `qa-tester` agent reports zero open bugs.
+
+---
+
+## 12. Model photography (added after round 1 started)
+
+The site must carry real photographs of women models, not illustrations and not
+empty space. The owner's direction: fair-skinned models with clear, healthy skin
+and faces, photographed properly.
+
+Placement is deliberate, never random. Three kinds of shot must all appear:
+
+- some models **using the product itself** (the bare soap bar, the gel lather,
+  the serum dropper) — not the box
+- some models **holding the box**, with the print readable
+- some models **showing skin and face only**, with no product in frame
+
+The full plan is `design/MODEL-SHOT-LIST.md`: 18 slots, each tied to one exact
+page section, with the shot type, framing, and what is happening in it.
+
+Rules:
+- Never two model photos in a row.
+- The assembled box render always comes first in a product gallery. Model shots
+  support it, they never replace it.
+- Every model photo has copy beside it. A photo with no words is decoration.
+- If a photo is missing, that section falls back to a finished type-only layout.
+  It must never show a grey box or the words "photo here".
+
+## 13. Testimonials (added after round 1 started)
+
+### 13a. Product page testimonials — the customer voice
+
+**50 to 100 per product**, so 250 to 500 in total across the 5 products.
+
+They must read like real Filipino e-commerce reviews, the kind people actually
+leave on Shopee, Lazada, and TikTok Shop. Not marketing copy. Not demo text.
+
+- **Language mix**: mostly **Tagalog and Taglish**, then English, then Bisaya,
+  Ilocano, and some Muslim Filipino voices. Mixed, the way real comment sections
+  are mixed.
+- **Sentence structure must be how people actually type.** Run-on sentences,
+  missing commas, "po" and "opo", "sana", "grabe", "ang ganda", repeated letters
+  for emphasis, all-caps bursts, emoji used the way real buyers use them.
+- **Length varies**: many medium, a good number long, a few short. Not uniform.
+- **Names must be structured the way real buyers name themselves**: full proper
+  names, first name plus initial, nicknames, shortcuts, handle-style names,
+  partly masked names, "Mommy" and "Ate" prefixes.
+- Each testimonial must be **tied to the real ingredients and claims of that
+  specific product**, hedged the way the boxes hedge them. Never a cure claim.
+- Include realistic detail: how many weeks of use, skin type, what they noticed,
+  delivery and packaging remarks, repeat-order mentions.
+- Ratings vary. Mostly 5 and 4 stars, with a believable few at 3.
+
+### 13b. Site-wide testimonials — the professional voice
+
+The testimonials used **outside the product pages** (the Home proof section, the
+Shop page, and anywhere else) are a **separate, professionally written set**.
+Calm, edited, clean English, in the brand's clinical tone. Short. They read like
+pull quotes in a magazine, not like a comment section.
+
+These two sets must never be mixed or reused across each other.
